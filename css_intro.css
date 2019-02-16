@@ -1,0 +1,50 @@
+/* everything styled here can be styled with style attribute html tags */
+
+body {
+	color: blue;
+	background: gray;
+	font-family: 'Roboto Mono', monospace;
+	
+}
+
+h1 {
+	color: purple;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+	
+}
+
+p {
+	text-align: center;
+	
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.caption {
+	text-decoration: underline; 
+	font-style: italic;
+	color: purple; 
+	border:  solid blue 7 px;
+	
+}
+/* caption is a made up/ new class, attributes are defined within curly brackets */
+
+#SpecialImage {
+	border: solid red 10px;
+	
+}
+
+/* id is for a single element, each element should have a unique id */
+/* border requires type, color, and thickness */ 
