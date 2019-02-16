@@ -34,7 +34,7 @@ img {
 
 .caption {
 	text-decoration: underline; 
-	font-style: italic;
+	font-style: italic; /* do not forget needed dashes and other things of the like */ 
 	color: purple; 
 	border:  solid blue 7 px;
 	
